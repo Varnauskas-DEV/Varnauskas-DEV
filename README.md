@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Varnauskas-DEV/Varnauskas-DEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm passionate about software development,Love problem-solving and building new projects.
+## 💻 Tech Stack
+- **Languages:** C++, C#
+- **Web Technologies:** HTML
+- **3D Modeling:** Blender
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Projects
+Coming soon!
+
+## 📫 Contact
+- Email: [Varnauskas01@gmail.com or mantas.varnauskas@stud.vilniustech.lt]
+
+## 🎁 Present
+- 🎓 I’m currently studying **Graphic Design and Multimedia** at **VILNIUS TECH**.
+- 🔭 I’m currently working on a game using **Unity** and **C#**
+- 🌱 I’m currently learning Unity
+- 💬 Ask me about cars, programing.
+- ⚡ Fun fact about me:
+  * I love fun activities like bowling and go-karting (when I have enough money 😅).
+  * I enjoy spending time outdoors, going on walks, and discovering new scenery.
+  * I'm strangely fascinated by how people look after their homes and cars.
+  * I love noticing new buildings, construction projects, and how places change over time.  
 -->
