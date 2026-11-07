@@ -16,7 +16,7 @@ Coming soon!
 - Email: [Varnauskas01@gmail.com or mantas.varnauskas@stud.vilniustech.lt]
 
 ## 🎁 Present
-- 🎓 I’m currently studying **Graphic Design and Multimedia** at **VILNIUS TECH**.
+- 🎓 I’m currently studying **Computer Design and Multimedia** at **VILNIUS TECH**.
 - 🔭 I’m currently working on a game using **Unity** and **C#**
 - 🌱 I’m currently learning Unity
 - 💬 Ask me about cars, programing.
